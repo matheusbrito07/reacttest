@@ -1,0 +1,91 @@
+#TabelaMenuProdutos{
+    border: 2px solid black ;
+    background-color: #220334;
+    height: 8px;
+    width: 100%;
+    text-align: center;
+}
+
+#Produtos_Promo img{
+border: 2px solid black;
+height: 250px;
+width: 32%;
+margin: 5px;
+padding: 2px;
+
+}
+
+
+#Produtos_Conhecer {
+ color: #6b4e93;
+ text-align: center;
+ font-size: 25px;
+
+}
+
+
+
+#Produtos_ConhecerImg img{
+
+
+height: 250px;
+width: 32%;
+margin: 5px;
+padding: 2px;
+display: flex;
+justify-content: space-between;
+ }
+
+#PromocaoImperdivel{
+    border: 2px solid black;
+    padding: 5px auto;
+
+}
+
+#PromocaoImperdivel img{
+display: inline-block;
+margin: 50px 95px;
+border-left: solid black 1px;
+}
+
+#TABELAO tr td {
+    
+border: 2px solid black;
+background-color: rgba(192, 192, 192, 0.897);
+}
+
+.TabelaoTexto{
+color: #6b4e93;
+text-align: center;
+font-size: 25px;
+
+}
+.TabelaDeProdutos{
+    text-align: center;
+    width: 100%;
+    height: 100%;
+}
+.TabelaNomeProduto{
+    color:black;
+    font-weight: bolder;
+    font-size: 30px;
+}
+
+.ValorAntigo{
+    color: red;
+    font-weight: bolder;
+    text-decoration: line-through;
+    font-size: 30px;
+
+}
+
+.NovoValor{
+    color:black;
+    font-weight: bolder;
+    font-size: 50px;
+}
+
+.PromocaoOutlet{
+    
+    width: 100%;
+}
